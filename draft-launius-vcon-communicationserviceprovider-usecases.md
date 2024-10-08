@@ -3,7 +3,7 @@ title: "vCon - Communication Service Provider Usecases"
 abbrev: "vcon-communicationserviceprovider-usecases"
 category: info
 
-docname: draft-launius-vcon-communicationserviceprovider-usecases-latest
+docname: draft-launius-vcon-communicationserviceprovider-usecases
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
